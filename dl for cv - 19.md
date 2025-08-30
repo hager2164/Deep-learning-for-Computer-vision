@@ -1,0 +1,7 @@
+- discriminative model: takes probability of labels y given one image x => forced to output normalized distru over all labels
+	- ![[Pasted image ٢٠٢٥٠٨٢٣١٠٢٣٢٤.png]]
+- generative model: all images could ever exist => probability of how likely this image could exist => needs t be aware what's more likely tb existed in the world?
+	- ![[Pasted image ٢٠٢٥٠٨٢٣١٠٢٤٢١.png]]
+- conditional generative: all images could ever exist => probability of each image **given** the label y.
+	- ![[Pasted image ٢٠٢٥٠٨٢٣١٠٣٠٣٣.png]]
+- 
