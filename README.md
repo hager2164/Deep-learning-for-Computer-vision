@@ -1,1 +1,1 @@
-UMICH [EECS-498-007]
+[OneNote Lecture Notes](https://1drv.ms/o/c/f2c6e587d28b2fa8/EoWN7YfbwvFMuLIvWz9CwFEBAw76enJaXTbmlhTOjRw39A?e=Q1Fh92)
